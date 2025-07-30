@@ -2,7 +2,7 @@
 
 ## 📊 Sales Performance Dashboard Project
 
-This project presents an interactive Sales Performance Dashboard built using Microsoft Power BI. It visualizes key business metrics and trends across regions, customer segments, product categories, and order fulfillment.
+This project presents an interactive Sales Performance Dashboard built using Tableau. It visualizes key business metrics and trends across regions, customer segments, product categories, and order fulfillment.
 
 **Dataset Overview:**
 
