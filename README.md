@@ -1,102 +1,109 @@
-# Excel & Tableau Project
+# Sales Performance Dashboard 
 
-## 📊 Sales Performance Dashboard Project
+---
 
-This interactive Sales Performance Dashboard offers a comprehensive view of company sales, profit, and quantity metrics across multiple dimensions — such as region, category, segment, and payment mode. The goal of this dashboard is to enable business teams to monitor performance trends, identify high-performing areas, and uncover insights for strategic decision-making.
+## Project Overview
 
-**Tools & Technology:**
+The **Sales Performance Dashboard** provides a complete overview of company performance across sales, profit, and quantity metrics.  
+It helps business teams monitor trends, identify high-performing areas, and derive insights for data-driven decision-making.
 
-- Excel – Data cleaning and preparation
+---
 
-- Tableau – Dashboard creation and visualization
+## Data Description
 
-- Data Visualization Techniques – Bar charts, line graphs, KPIs, donut charts
+The dataset includes detailed sales transactions with the following fields:
 
-- Calculated Fields – Profit ratio, monthly growth, and category performance
+- **Sales and Profit** by product category and sub-category  
+- **Order Quantity** and **Shipment Modes**  
+- **Customer Segments** and **Regions**  
+- **Payment Modes** used in transactions  
 
-**Data Description:**
+---
 
-- The dataset includes details on:
+## Final Insights Summary
 
-- Sales and Profit across product categories and sub-categories
+- **Office Supplies** drive the largest share of total sales and profit.  
+- **West (33%)** and **East (29%)** regions together contribute over **60% of total revenue**.  
+- **Consumer segment** shows the strongest engagement and profitability among all customer types.  
+- **Cash on Delivery (COD)** is the most preferred payment mode, highlighting trust-based customer behavior.  
+- **December 2020** recorded the highest monthly sales (₹166K), indicating strong seasonal demand.  
+- **Standard Class** shipping dominates, but there’s an opportunity to expand faster delivery options.
 
-- Order Quantity and Shipment Modes
 
-- Customer Segments and Regions
+## Dashboard Analysis
 
-- Payment Modes used in transactions
+### Overview KPIs
 
-**Dashboard Sections:**
+| Metric | Value |
+|---------|-------|
+| Total Sales | 1,565,804 |
+| Total Profit | 175,262 |
+| Total Quantity | 22,317 |
 
-**1️⃣ Overview KPIs**
+💡 *High-level KPIs provide a quick snapshot of overall business performance.*
 
-Metric	Value
+---
 
-- Total Sales	1,565,804
-- Total Profit	175,262
-- Total Quantity	22,317
+### Sales & Profit Trends
 
-💡 High-level indicators give a quick snapshot of overall business performance.
+- Sales and profit trends are visualized month-over-month for **2019–2020**.  
+- **December 2020 (₹166K)** shows the highest sales spike — a key seasonal pattern.  
+- Profit margins fluctuate monthly, with notable increases in **October and November**.
 
-**2️⃣ Sales & Profit Trends**
+---
 
-- Sales by Month and Profit by Month visuals compare year-over-year performance (2019 vs 2020).
+### Sub-Category Performance
 
-- Sales peaked in December 2020 (166K), showing strong seasonal growth.
+- **Top sub-categories:** Phones, Chairs, and Binders.  
+- **Phones** generated the highest sales, while **Accessories** and **Tables** had consistent profits.  
+- **Low performers:** Fasteners and Envelopes — potential focus areas for improvement.
 
-- Profitability fluctuated monthly, with notable spikes in October and November.
+---
 
-**3️⃣ Sub-Category Performance**
+### Regional & Segment Insights
 
-- Top sub-categories by sales include Phones, Chairs, and Binders.
+- **West (33%)** and **East (29%)** regions are top contributors to total revenue.  
+- **Consumer segment (48%)** dominates sales, followed by **Corporate (33%)** and **Home Office (19%)**.  
+- **Central region (22%)** shows growth potential with targeted campaigns.
 
-- Phones contributed the highest sales volume, while Accessories and Tables showed consistent profit margins.
+---
 
-- Low-performing items like Fasteners and Envelopes indicate potential areas for optimization.
+### Category & Payment Mode Analysis
 
-**4️⃣ Regional & Segment Insights**
+- **Office Supplies** lead with ₹643K in sales, followed by **Technology (₹470K)** and **Furniture (₹451K)**.  
+- **Cash on Delivery (COD)** remains the most popular payment mode, indicating a customer preference for direct transactions.
 
-- West (33%) and East (29%) regions lead in total sales.
+---
 
-- Consumer segment (48%) is the top contributor, followed by Corporate (33%) and Home Office (19%).
+### Shipping Mode Insights
 
-- The Central region has the lowest share (22%), representing potential growth opportunities.
+- **Standard Class** shipping represents **58%** of total orders.  
+- **Same Day deliveries (6%)** remain limited — suggesting opportunities to enhance express logistics.
 
-**5️⃣ Category & Payment Mode Analysis**
+---
 
-- Office Supplies generated the highest revenue (₹643K), followed by Technology (₹470K) and Furniture (₹451K).
+## Tools & Technology
 
-- Cash on Delivery (COD) is the most used payment mode, indicating customer preference for direct transactions.
+- **Excel** – Data cleaning and preparation  
+- **Tableau** – Dashboard creation and visualization  
+- **Data Visualization Techniques** – Bar charts, line graphs, KPIs, donut charts  
+- **Calculated Fields** – Profit ratio, monthly growth, category performance  
 
-**6️⃣ Shipping Mode Insights**
+---
 
-- Standard Class is the dominant shipping method (58%), while Same Day deliveries (6%) remain minimal — suggesting opportunities for faster logistics options.
+## Analytical Skills Demonstrated
 
-**📈 Key Business Insights**
+- Data cleaning and transformation in **Excel**  
+- Creation of **KPIs** and calculated fields in Tableau  
+- Building an interactive **multi-view dashboard**  
+- Translating data into **strategic business insights**
 
-- Office Supplies drive the largest share of total sales and profit.
+---
 
-- West and East regions are top performers, together accounting for 60%+ of total revenue.
+## Project Summary
 
-- Consumer segment shows the strongest engagement and profitability.
+> “This Tableau dashboard transforms raw sales and profit data into actionable insights — empowering teams to monitor trends, identify growth opportunities, and make data-driven business decisions.”
 
-- Online and COD payment modes dominate overall transaction volume.
+---
 
-- December shows peak sales — highlighting strong year-end performance patterns.
-
-**🧠 Analytical Skills Demonstrated**
-
-- Data cleaning and preparation using Excel.
-
-- Building KPIs and calculated fields for profit and sales growth.
-
-- Designing an interactive Tableau dashboard with multiple linked views.
-
-- Translating data into actionable insights for business decision-making.
-
-**⭐ Summary**
-
-“This Tableau dashboard transforms raw sales and profit data into actionable insights — helping business teams track performance, identify trends, and make data-driven decisions with clarity.”
-
-<img width="2940" height="1912" alt="SuperStore Sales Dashboard " src="https://github.com/user-attachments/assets/8dd587d9-5aec-42e9-9350-184f87dfde80" />
-
+![Sales Performance Dashboard](https://github.com/user-attachments/assets/8dd587d9-5aec-42e9-9350-184f87dfde80)
